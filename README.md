@@ -5,6 +5,7 @@ I upgraded my DIY Stream Deck (Idea from @DaveM , please see [Thingiverse](https
 [![](https://i.ibb.co/FDfDTRd/Stream-Deck-With-LEDStrip.png)](https://i.ibb.co/FDfDTRd/Stream-Deck-With-LEDStrip.png)
 
 
-## Video
-
+## Result
 You can have a look at the final result here: https://www.youtube.com/watch?v=xRXh3uJzxoM
+
+[![](https://i.ibb.co/1Rr8416/IMG-4964.jpg)](https://i.ibb.co/1Rr8416/IMG-4964.jpg)
