@@ -26,7 +26,7 @@
 #define PIN_LED 15
 #define NUMPIXELS 5
 
-Adafruit_NeoPixel pixels = Adafruit_NeoPixel(10, PIN_LED, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel pixels = Adafruit_NeoPixel(15, PIN_LED, NEO_GRB + NEO_KHZ800); //set PIN for LED Data
 
 // Button helper class for handling press/release and debouncing
 class button {
